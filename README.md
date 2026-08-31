@@ -11,7 +11,7 @@ I'm **Ashraf Hesham**, a QA Test Automation Engineer with **9+ years of experien
 - Advanced Playwright patterns for complex web applications
 - Container-based test execution with Docker
 
-### 👯 I'm looking to collaborate on
+### 🔧 I'm looking to collaborate on
 - Test automation framework development
 - API testing and microservices validation projects
 - QA process optimization for development teams
